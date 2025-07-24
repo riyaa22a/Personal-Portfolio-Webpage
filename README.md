@@ -57,3 +57,9 @@ a professional online presence. I'm proud of what I've accomplished, and I'm exc
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/093d77a4-16a4-403f-943c-86e4cdc2ba20" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9c3ac11c-d0ff-4467-8255-abd3d7e837f5" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aef2e79b-c833-4202-a510-8366a6e7f9cf" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/093d77a4-16a4-403f-943c-86e4cdc2ba20" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9c3ac11c-d0ff-4467-8255-abd3d7e837f5" />
