@@ -47,3 +47,7 @@ collaborators, and clients to learn more about my background, skills, and accomp
 
 This personal portfolio webpage project demonstrates my skills and experience in web development, showcasing my ability to design and build
 a professional online presence. I'm proud of what I've accomplished, and I'm excited to continue improving and updating the webpage as I grow and develop as a professional.
+
+# output
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0671693d-8f26-48b7-b946-d21e2c4849de" />
