@@ -26,21 +26,21 @@ collaborators, and clients to learn more about my background, skills, and accomp
 *Technologies Used*
 
 - HTML: Structuring and content markup, providing the foundation for the webpage's content and layout.
-- 
+ 
 - CSS: Styling and layout, using CSS selectors, properties, and values to create a visually appealing and responsive design.
-- 
+  
 - JavaScript: Interactive elements and dynamic behavior, adding functionality to the webpage and enhancing the user experience.
-- 
+  
 - VS Code: Development environment, providing a powerful and feature-rich code editor for building and debugging the project.
 
 *Features*
 
 - Responsive Design: A seamless user experience across various devices and screen sizes, ensuring that the webpage looks great on desktops, laptops, tablets, and mobile phones.
-- 
+  
 - Easy Navigation: Clear and concise navigation, making it easy for visitors to find the information they need.
-- 
+  
 - Project Showcase: A showcase of my projects, including descriptions.
-- 
+  
 - Contact Information: Easy access to my LinkedIn and GitHub profiles, as well as a contact form for potential collaborators or employers.
 
 *Conclusion*
